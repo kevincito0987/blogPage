@@ -1,0 +1,13 @@
+@import url(variables.css);
+body {
+    margin: 0;
+    font-family: "Roboto_18pt-Regular";
+    background-image: linear-gradient(to right, blue, yellow, red);
+}
+
+/* Estilos para dispositivos móviles */
+@media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+}
