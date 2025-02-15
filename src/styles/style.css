@@ -1,9 +1,14 @@
 @import url(variables.css);
+
 body {
     margin: 0;
     font-family: "Roboto_18pt-Regular";
     background: -webkit-linear-gradient(90deg, #9b020e,#27b438,#6a00eb);/* Chrome 10-25, Safari 5.1-6 */                          background: linear-gradient(90deg, #9b020e,#27b438,#6a00eb);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
 }
+[data-bs-theme="dark"] body {
+    background-color: #343a40; /* Color de fondo en modo oscuro */
+    color: #f8f9fa; /* Color de texto en modo oscuro */
+  }
 
 /* Estilos para dispositivos móviles */
 @media (max-width: 768px) {
