@@ -4,9 +4,13 @@
 Este proyecto consiste en la creación de un **blog responsivo y estilizado** con **HTML y CSS (Tailwind CSS)**, desplegado en **GitHub Pages**. Su objetivo es consolidar y presentar evidencias en inglés en distintos formatos:
 
 ✅ **Evidencias de Video**
+
 ✅ **Evidencias de Audio**
+
 ✅ **Textos Escritos**
+
 ✅ **Pensamiento Crítico y Alfabetización Mediática**
+
 ✅ **Crimen y Castigo**
 
 Además, la gestión de tareas se realizará mediante **GitHub Projects**, asegurando un flujo de trabajo eficiente.
@@ -16,8 +20,11 @@ Además, la gestión de tareas se realizará mediante **GitHub Projects**, asegu
 ## 📌 Tecnologías Utilizadas
 
 🔹 **HTML5** - Estructura del sitio web
+
 🔹 **CSS3 + Tailwind CSS** - Diseño responsivo y atractivo
+
 🔹 **GitHub Pages** - Despliegue del blog
+
 🔹 **GitHub Projects** - Organización y seguimiento de tareas
 
 ------
@@ -81,9 +88,13 @@ plaintextCopiarEditar📂 blog-evidencias
 El blog debe contener **entre 5 y 7 entradas**, organizadas en secciones como:
 
 📌 **Introducción al Blog** - Presentación y objetivos
+
 📽️ **Evidencias de Video** - Publicación de videos en inglés
+
 🎤 **Evidencias de Audio** - Publicación de podcasts o grabaciones
+
 📝 **Textos Escritos** - Ensayos y artículos en inglés
+
 🧠 **Pensamiento Crítico y Alfabetización Mediática** - Análisis sobre los medios
 ⚖️ **Crimen y Castigo** - Reflexión sobre leyes y moralidad
 
