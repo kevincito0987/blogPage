@@ -73,8 +73,6 @@ plaintextCopiarEditar📂 blog-evidencias
  ┃ ┣ 📂 videos   # Videos de evidencia
  ┃ ┣ 📂 audios   # Archivos de audio
  ┣ 📜 index.html  # Página principal
- ┣ 📜 about.html  # Información del blog
- ┣ 📜 blog.html   # Entradas del blog
  ┣ 📜 styles.css  # Estilos personalizados (opcional)
  ┣ 📜 README.md   # Documentación del proyecto
  ┣ 📜 .gitignore  # Archivos ignorados en Git
