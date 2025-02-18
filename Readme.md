@@ -120,7 +120,7 @@ git push origin main
 
 4. GitHub generará una URL pública del blog:
 
-   **Ejemplo:** `https://tu-usuario.github.io/blog-evidencias/`
+   **Despliegue:** `https://kevincito0987.github.io/blogPage/`
 
 ------
 
